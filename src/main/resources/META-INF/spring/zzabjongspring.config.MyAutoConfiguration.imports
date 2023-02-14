@@ -1,3 +1,4 @@
+zzabjongspring.config.autoconfig.DataSourceConfig
 zzabjongspring.config.autoconfig.PropertyPostProcessorConfig
 zzabjongspring.config.autoconfig.PropertyPlaceholderConfig
 zzabjongspring.config.autoconfig.TomcatServerConfig
